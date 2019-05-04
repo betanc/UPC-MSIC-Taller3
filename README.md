@@ -14,6 +14,14 @@ Conversión exitosa paquete .rpm a .deb del cliente sqldeveloper
 
 ![taller3 2](https://user-images.githubusercontent.com/48939055/57181418-0bc33d00-6e59-11e9-9148-28e3a8d09e62.jpg)
 
+Instalación JAVA:
+
+![instar java](https://user-images.githubusercontent.com/50051421/57182269-d4f22480-6e62-11e9-95bd-921f65c5d2bd.PNG)
+
+
+Instalación SQLDEVELOPER:
+
+![instalar sqldeveloper](https://user-images.githubusercontent.com/50051421/57182268-d4f22480-6e62-11e9-8af1-3d84bc75c758.PNG)
 
 
 Conexión a la base de datos:
@@ -84,5 +92,6 @@ Asignación del rol ANALYST al usuario GERMAN
 
 ![asignacion del rol al usuario](https://user-images.githubusercontent.com/50051421/57182084-e2a6aa80-6e60-11e9-879e-e31dc1a79db2.PNG)
 
-Restricciones del usuario GERMAN
+Restricciones del usuario GERMAN:
+
 ![prueba](https://user-images.githubusercontent.com/50051421/57182150-96a83580-6e61-11e9-908c-43251efd3618.PNG)
