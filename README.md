@@ -67,3 +67,22 @@ Rol asignado al usuario
 ![usuariocreado](https://user-images.githubusercontent.com/50051518/57181874-cd308100-6e5e-11e9-997b-08e99b39ca29.PNG)
 - Acceso con el usuario ANALISTASEGU:
 ![usuariocreado1](https://user-images.githubusercontent.com/50051518/57181881-d6215280-6e5e-11e9-9a3a-56a39a44c642.PNG)
+
+
+Creación de un rol para la base de datos (Creación de rol ANALYST):
+
+![creacion usuario Analyst](https://user-images.githubusercontent.com/50051421/57182064-bd19a100-6e60-11e9-900c-5cd1b69c14fe.PNG)
+
+Asignación de privilegios y permisos para ese rol (SELECT ANY TABLE):
+![permisos consulta tablas a Analyst siiii](https://user-images.githubusercontent.com/50051421/57182069-c60a7280-6e60-11e9-85b6-7ad77acf03b9.PNG)
+
+
+Creación de un usuario de base de datos (usuario "GERMAN"):
+![creacion usuario german](https://user-images.githubusercontent.com/50051421/57182074-cc98ea00-6e60-11e9-9844-c49655c1de9f.PNG)
+
+Asignación del rol ANALYST al usuario GERMAN
+
+![asignacion del rol al usuario](https://user-images.githubusercontent.com/50051421/57182084-e2a6aa80-6e60-11e9-879e-e31dc1a79db2.PNG)
+
+Restricciones del usuario GERMAN
+![prueba](https://user-images.githubusercontent.com/50051421/57182150-96a83580-6e61-11e9-908c-43251efd3618.PNG)
