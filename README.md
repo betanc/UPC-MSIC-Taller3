@@ -95,3 +95,4 @@ Asignación del rol ANALYST al usuario GERMAN
 Restricciones del usuario GERMAN:
 
 ![prueba](https://user-images.githubusercontent.com/50051421/57182150-96a83580-6e61-11e9-908c-43251efd3618.PNG)
+
