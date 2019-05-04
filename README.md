@@ -41,6 +41,11 @@ Conexión del rol "operador" al usuario "betanc" con sus permisos:
 
 ![taller3 7](https://user-images.githubusercontent.com/48939055/57181678-70cc6200-6e5c-11e9-842f-c9181795426a.jpg)
 
+Conexión a la base de datos con el nuevo usuario:
+
+
+![taller3 8](https://user-images.githubusercontent.com/48939055/57181930-521b9a80-6e5f-11e9-8c9a-44bdcbbb5cf5.jpg)
+
 Usuario ANALISTASEGU creado:
 - Test de Conexión:
 ![usuariocreado](https://user-images.githubusercontent.com/50051518/57181874-cd308100-6e5e-11e9-997b-08e99b39ca29.PNG)
