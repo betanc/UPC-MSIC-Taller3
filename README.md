@@ -47,6 +47,22 @@ Conexión a la base de datos con el nuevo usuario:
 ![taller3 8](https://user-images.githubusercontent.com/48939055/57181930-521b9a80-6e5f-11e9-8c9a-44bdcbbb5cf5.jpg)
 
 Usuario ANALISTASEGU creado:
+
+Creacion del Rol securty_admin, asignacion del privilegios al rol y ceración de usuarios.
+
+![Creacion_Role_UsuarioDB1](https://user-images.githubusercontent.com/50051493/57181975-c5251100-6e5f-11e9-837d-9181a15ba8f4.PNG)
+
+Usuario creado Interfaz Grafica
+
+![UsuarioDBCreado](https://user-images.githubusercontent.com/50051493/57181974-c48c7a80-6e5f-11e9-89a6-5f8e3a8f16bb.PNG)
+
+Rol asignado al usuario
+
+![RolesUsuarioDB](https://user-images.githubusercontent.com/50051493/57181977-c5251100-6e5f-11e9-90e6-687122e0bcae.PNG)
+
+
+
+
 - Test de Conexión:
 ![usuariocreado](https://user-images.githubusercontent.com/50051518/57181874-cd308100-6e5e-11e9-997b-08e99b39ca29.PNG)
 - Acceso con el usuario ANALISTASEGU:
