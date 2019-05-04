@@ -19,3 +19,7 @@ Conversión exitosa paquete .rpm a .deb del cliente sqldeveloper
 Conexión a la base de datos:
 
 ![taller3_3](https://user-images.githubusercontent.com/48939055/57181340-f4378480-6e57-11e9-984f-0ceb43b745e6.jpg)
+
+Información base de datos:
+![conexionbd](https://user-images.githubusercontent.com/50051518/57181624-d8ce7880-6e5b-11e9-9920-5a5b44e3ee27.PNG)
+![empleadosbd](https://user-images.githubusercontent.com/50051518/57181626-e2f07700-6e5b-11e9-8b93-c3409e0ca8ca.PNG)
