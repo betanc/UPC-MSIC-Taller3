@@ -48,7 +48,7 @@ Conexión a la base de datos con el nuevo usuario:
 
 Usuario ANALISTASEGU creado:
 
-Creacion del Rol securty_admin, asignacion del privilegios al rol y ceración de usuarios.
+Creacion del Rol securty_admin, asignacion del privilegios al rol y creación de usuario analistasegu.
 
 ![Creacion_Role_UsuarioDB1](https://user-images.githubusercontent.com/50051493/57181975-c5251100-6e5f-11e9-837d-9181a15ba8f4.PNG)
 
