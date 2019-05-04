@@ -10,6 +10,11 @@ Conversión exitosa:
 
 ![taller3](https://user-images.githubusercontent.com/48939055/57181369-5db79300-6e58-11e9-85dd-77ce8f123ba3.jpg)
 
+Conversión exitosa paquete .rpm a .deb del cliente sqldeveloper 
+
+![taller3 2](https://user-images.githubusercontent.com/48939055/57181418-0bc33d00-6e59-11e9-9148-28e3a8d09e62.jpg)
+
+
 
 Conexión a la base de datos:
 
