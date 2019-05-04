@@ -40,3 +40,9 @@ Creación de un usuario de base de datos (usuario "betanc"):
 Conexión del rol "operador" al usuario "betanc" con sus permisos:
 
 ![taller3 7](https://user-images.githubusercontent.com/48939055/57181678-70cc6200-6e5c-11e9-842f-c9181795426a.jpg)
+
+Usuario ANALISTASEGU creado:
+- Test de Conexión:
+![usuariocreado](https://user-images.githubusercontent.com/50051518/57181874-cd308100-6e5e-11e9-997b-08e99b39ca29.PNG)
+- Acceso con el usuario ANALISTASEGU:
+![usuariocreado1](https://user-images.githubusercontent.com/50051518/57181881-d6215280-6e5e-11e9-9a3a-56a39a44c642.PNG)
